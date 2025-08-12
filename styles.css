@@ -15,7 +15,8 @@ header {
     width: 100%;
     height: auto;
     padding: 10px 20px;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 70px;
 }
 
 nav ul {
